@@ -1,1 +1,1 @@
-# Problema-da-Mochila---Usando-Programacao-Dinamica-e-Algortimos-Gulosos
+# Problema da Mochila - Usando Programação Dinâmica e Algortimos Gulosos
