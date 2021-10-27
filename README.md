@@ -1,5 +1,5 @@
 # Problema da Mochila - Usando Programação Dinâmica e Algorpitimos Gulosos
-Uma descrição com a problematização tratada neste projeto pode ser encontrado na raiz do mesmo com o nome objeto do projeto.
+Uma descrição com a problematização tratada neste projeto pode ser encontrado em https://github.com/jeanhjaques/Problema-da-Mochila---Usando-Programacao-Dinamica-e-Algoritimos-Gulosos/blob/main/Objetivo%20deste%20trabalho.pdf .
 
 # Como executar
 # Requisitos
