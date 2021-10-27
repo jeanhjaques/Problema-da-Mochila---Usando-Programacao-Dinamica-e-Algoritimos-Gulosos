@@ -1,6 +1,8 @@
 import java.lang.Math;
 
 public class ProblemaMochila{
+	//recebe um vetor de valoreso, um vetor de pesos e o peso maximo da mochila
+	//retorna um vetor mostrando quais itens foram selecionados.
 	public static double[] fractionalKnapsack(int[] valor, int[] peso, double pesoMaximo){
 		//ordenando os vetores valor e peso pelo seu preço por quilo
 		//optamos pelo bubbleSort
@@ -33,6 +35,8 @@ public class ProblemaMochila{
 		return mochila;
 	}
 
+	//recebe um vetor de valores, um vetor de pesos e o peso maximo da mochila
+	//retorna uma matriz mostando o caminho percorrido até chegar no resultado
 	public static double[][] bynaryKnapsack(int[] valor, int[] peso, int pesoMaximo){
 		int n = valor.length;
 		double[][] mochila = new double[n+1][pesoMaximo+1];
